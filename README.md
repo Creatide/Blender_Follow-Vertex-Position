@@ -25,6 +25,7 @@ This is a script. There's no installation needed for using it. Just proceed with
 3. Select target `Vertex` in `Edit Mode`
 4. Go back to `Object Mode`
 5. Run Script in `Text Editor`
+6. Thats it. It makes empty object and keyframe vertex position to every frame.
 
 ## About
 This is quite old script that I've used in couple projects. Main reason for this was to get position of target `Vertex` and use that data in **After Effects** to make objects follow that point.
