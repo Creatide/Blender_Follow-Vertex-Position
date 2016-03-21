@@ -7,13 +7,13 @@ With this simple script you can “track” selected vertex. Script make an empt
 
 #### Example: How This Script Works?
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GHWAWqGkUT0
-" target="_blank"><img src="https://www.dropbox.com/s/dpxtmv91h9kznej/Blender_FollowVertexPosition_Youtube_Thumbnail.png?raw=1" 
+" target="_blank"><img src="https://github.com/Creatide/Blender_Follow-Vertex-Position/blob/master/README/Blender_FollowVertexPosition_Youtube_Thumbnail.png" 
 alt="Script Demonstration Video" /></a>
 
 #### Demo: Concept Project Where Used This Script
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fvXoyImyCTQ
-" target="_blank"><img src="https://www.dropbox.com/s/dilrogpgpwbykcq/Blender_FollowVertexPosition_Demo_Youtube_Thumbnail.png?raw=1" 
+" target="_blank"><img src="https://github.com/Creatide/Blender_Follow-Vertex-Position/blob/master/README/Blender_FollowVertexPosition_Demo_Youtube_Thumbnail.png" 
 alt="Script Demonstration Video" /></a>
 
 ## How to Use
